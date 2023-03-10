@@ -137,4 +137,4 @@ In this  subsection, I extended the crowdsale contract to enhance its functional
 ![alt=""](Remix5.png)  ![alt=""](remix14.png)
 ![alt=""](Remix6.png)  ![alt=""](remix15.png)
 ![alt=""](remix7.png)  ![alt=""](remix16.png)
-![alt=""](remix8.png) ![alt=""](remix17.png)
+![alt=""](remix8.png)  ![alt=""](remix17.png)
