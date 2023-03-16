@@ -129,6 +129,9 @@ In this  subsection, I extended the crowdsale contract to enhance its functional
 >  To read more about these contracts visit [Crowdsales page](https://docs.openzeppelin.com/contracts/2.x/crowdsales) of the OpenZeppelin documentation.
 
 ### Evaluation Evidence
+![alt=""](Remix.png)   ![alt=""](remix6.png)
+![alt=""](Remix.png)   ![alt=""](remix7.png)
+![alt=""](Remix.png)   ![alt=""](remix8.png)
 ![alt=""](Remix.png)   ![alt=""](remix9.png)
 ![alt=""](Remix1.png)   ![alt=""](remix10.png)
 ![alt=""](Remix2.png)  ![alt=""](remix11.png)
