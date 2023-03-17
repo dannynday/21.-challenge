@@ -137,3 +137,4 @@ In this  subsection, I extended the crowdsale contract to enhance its functional
 ![](KaseiCoin_transaction.png)
 ![](kaseiCoinCrowdsaleDeployer.png)
 ![](KaseiCoinCrowdsaledeployer_transaction.png)
+![](KaseiCoinDeploy.png)
