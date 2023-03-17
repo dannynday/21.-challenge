@@ -1,6 +1,6 @@
 # Unit 21: Martian Token Crowdsale
 
-![alt=""](application-image.png)
+![alt="1"](application-image.png)
 
 ## Background
 
@@ -130,7 +130,7 @@ In this  subsection, I extended the crowdsale contract to enhance its functional
 
 ### Evaluation Evidence
 
-![1](checking_KaseiCoin_contract.png)
+![](checking_KaseiCoin_contract.png)
 ![](KaseiCoinCrowdsaleDeployer_contract.png)
 ![](KaseiCoin_constactor.png)
 ![](KaseiCoin_Mint.png)
