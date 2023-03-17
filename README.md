@@ -130,10 +130,10 @@ In this  subsection, I extended the crowdsale contract to enhance its functional
 
 ### Evaluation Evidence
 
-![alt=](checking_KaseiCoin_contract.png)
-![alt=""](deploying _contract_in_KaseiCoinCrowdsale_Deployer.png)
-![alt=""](KaseiCoin_constactor.png)
-![alt=""](KaseiCoin_Mint.png)
-![alt=""](KaseiCoin_transaction.png)
-![alt=""](kaseiCoinCrowdsaleDeployer.png)
-![alt=""](KaseiCoinCrowdsaledeployer_transaction.png)
+![](checking_KaseiCoin_contract.png)
+![](deploying _contract_in_KaseiCoinCrowdsale_Deployer.png)
+![](KaseiCoin_constactor.png)
+![](KaseiCoin_Mint.png)
+![](KaseiCoin_transaction.png)
+![](kaseiCoinCrowdsaleDeployer.png)
+![](KaseiCoinCrowdsaledeployer_transaction.png)
